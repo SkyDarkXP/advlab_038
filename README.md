@@ -5,7 +5,7 @@
 <code>pip install yt_dlp</code>
 <h2>ขั้นตอนที่รันไฟล์ dlyoutube.py</h2>
 <code>python app.py</code>
-<p>หลักการทำงานของโปรแกรม</p>
+<h3>หลักการทำงานของโปรแกรม<h3>
 <p>1.รับ URL ของวิดีโอจากผู้ใช้</p>
 <p>https://www.youtube.com/watch?v=Fdh_sQlieg8</p>
 <p>2.จะทำการสร้างไฟล์ mp4 จาก URL ที่ใส่ไว้</p>
